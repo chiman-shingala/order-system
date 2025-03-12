@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OrderSystem/bin/Debug/net7.0
+/.vs/OrderSystem/FileContentIndex
+/OrderSystem/obj
+/OrderSystem.Repository/bin/Debug/net7.0
+/.vs/OrderSystem/v17/.futdcache.v2
+/.vs/OrderSystem/v17/.suo
+/.vs/OrderSystem/DesignTimeBuild/.dtbcache.v2
+/.vs/OrderSystem/v17/.futdcache.v2
+/.vs/ProjectEvaluation/ordersystem.metadata.v5.2
+/.vs/ProjectEvaluation/ordersystem.projects.v5.2
+/.vs/ProjectEvaluation/ordersystem.metadata.v5.2
+/.vs/ProjectEvaluation/ordersystem.projects.v5.2
+/.vs/ProjectEvaluation
+/OrderSystem/bin/Release/net7.0
+/OrderSystem/Properties/PublishProfiles
+/.vs
+/OrderSystem/Properties/PublishProfiles/FolderProfile.pubxml
+/OrderSystem/Properties/PublishProfiles/FolderProfile.pubxml.user
+/.vs/ProjectEvaluation/ordersystem.projects.v5.2
